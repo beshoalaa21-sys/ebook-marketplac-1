@@ -1,1 +1,19 @@
-https://github.com/beshoalaa21-sys/ebook-marketplac-1
+# dependencies
+node_modules
+
+# next
+.next
+out
+
+# env
+.env
+.env.local
+.env.*.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
